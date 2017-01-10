@@ -1,0 +1,63 @@
+
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background:url("image/moi.jpg")fixed no-repeat top right;
+	background-color:#088A85;
+}
+
+
+p{
+	
+	text-align:justify;
+	width:40%;
+	height:100px;
+	margin:0 auto;
+	padding-bottom: 2%;
+	max-width: 800px;
+	min-width: 200px;
+	border:1px solid #F5D68D;
+	padding:40px;
+	margin-bottom:50px; /* espace du bas entre plusieurs blocs*/
+	overflow: auto;
+	
+}
+
+.li,.ul{
+	text-align:center;
+	padding-bottom:12px;
+	
+}
+
+#marge{
+	margin-top:-108px;
+}
+
+h3{
+	color:#F5D68D;
+}
+
+h2{
+	text-align:center;
+	border:5px inset;
+	border-radius:10px 10px 10px 10px;
+	width:50%;
+	margin:0 auto;
+	
+}
+
+
+.Titre{
+	color:#F5D68D;
+	text-decoration:none;
+	font-weight:bold;
+	text-align:center;
+	padding-bottom:11px;
+	padding-top:8px;
+}
+
+footer{
+	background-color:#F5D68D;
+}
